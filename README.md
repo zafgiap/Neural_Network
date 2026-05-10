@@ -6,4 +6,4 @@
 
 ## Waveforms from the functionality of the implemented `Neural Network`:
 
-![Neural_Network_Waveforms](./DMAC_FSM.svg)
+![Neural_Network_Waveforms](./Neural_Network_Waveform.png)
