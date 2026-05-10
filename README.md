@@ -10,4 +10,4 @@
 
 ## `FSM` representation of the implemented `Neural Network`:
 
-![Neural_Network_Waveforms](./Neural_Network_FSM.png)
+![Neural_Network_Waveforms](./Neural_Network_FSM.svg)
