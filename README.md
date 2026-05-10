@@ -2,7 +2,7 @@
 
 ## Waveforms from the functionality of the implemented `Calculator`:
 
-![Calculator_Waveforms](./DMAC_FSM.svg)
+![Calculator_Waveforms](./Calculator_Waveform.png)
 
 ## Waveforms from the functionality of the implemented `Neural Network`:
 
